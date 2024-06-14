@@ -97,21 +97,21 @@
     <section id="kontakt" class="container">
         <h2>Kontakt</h2>
         <form action="#">
-            <label for="name">Name:   NMG</label><br>
+            <label for="name">Name:       NMG</label><br>
             <input type="text" id="name" name="NMG"><br>
-            <label for="email">Email:</label><br>
+            <label for="email">Email:       noe.gumy@lern.ksab.ch</label><br>
             <input type="email" id="email" name="noe.gumy@lern.ksab.ch"><br>
-            <label for="nachricht">Nachricht:</label><br>
+            <label for="nachricht">Ereichbar unter Outlook</label><br>
             <textarea id="nachricht" name="nachricht" rows="4" cols="50"></textarea><br>
             <input type="submit" value="Senden">
         </form>
     </section>
     <section id="arbeit" class="container">
-        <h2>Arbeit</h2>
-        <p>Informationen über meine Arbeit und Projekte.</p>
+        <h2>Was ich anbiete</h2>
+        <p>Ich erstelle Logos nach ihrem Wunsch, Websites nach ihrem Wunsch und alles gratis...</p>
     </section>
     <footer>
-        <p>&copy; 2024 Meine Website</p>
+        <p>&copy; 2024 NMG</p>
     </footer>
 </body>
 </html>
