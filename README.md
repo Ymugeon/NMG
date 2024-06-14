@@ -38,7 +38,6 @@
             <label for="email">Email:       noe.gumy@lern.ksab.ch</label><br>
             <input type="email" id="email" name="noe.gumy@lern.ksab.ch"><br>
             <label for="nachricht">Ereichbar unter Outlook</label><br>
-            <textarea id="nachricht" name="nachricht" rows="4" cols="50"></textarea><br>
             <input type="submit" value="Senden">
         </form>
     </section>
