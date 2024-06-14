@@ -67,7 +67,7 @@
 </head>
 <body>
     <header>
-        <h1>Willkommen auf meiner Website</h1>
+        <h1>Willkommen auf NMG</h1>
     </header>
     <nav>
         <a href="#bilder">Bilder</a>
@@ -76,18 +76,18 @@
         <a href="#arbeit">Arbeit</a>
     </nav>
     <section id="bilder" class="container">
-        <h2>Bilder</h2>
+        <h2>Beispiellogos</h2>
         <div class="bilder-gallery">
-            <img src="bild1.jpg" alt="Logo 1">
+            <img src="th (18).jpg" alt="Logo 1">
             <img src="bild2.jpg" alt="Logo 2">
             <img src="bild3.jpg" alt="Logo 3">
         </div>
     </section>
     <section id="blog" class="container">
-        <h2>Blog</h2>
+        <h2>News</h2>
         <div class="blog-post">
             <h3>News 14.06.2024</h3>
-            <p>Hier ein paar Beispiellogos, von mir.</p>
+            <p>Hier ein paar Beispiellogos von mir.</p>
         </div>
         <div class="blog-post">
             <h3>News 15.06.2024</h3>
