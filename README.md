@@ -21,7 +21,7 @@
 </h4>
     </section>
     <section id="blog" class="container">
-        <h2></h2>
+        <h2>News</h2>
         <div class="blog-post">
             <h3>14.06.2024</h3>
             <p>Es gibt ein neues Logo!(https://github.com/Ymugeon/NMG/assets/172655085/e54c2ee7-091c-442d-b0f2-19b9931c3bf2)
