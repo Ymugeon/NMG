@@ -13,10 +13,12 @@
     </nav>
     <section id="bilder" class="container">
         <h2>Beispiellogos</h2>
-        <h3>![image](https://github.com/Ymugeon/NMG/assets/172655085/64edf5a0-18cc-4fce-a4b3-a6ac7600108e)
+        <h3>(https://github.com/Ymugeon/NMG/assets/172655085/64edf5a0-18cc-4fce-a4b3-a6ac7600108e)
 </h3>
-        <h3>15.06.2024</h3>
-        <h3>15.06.2024</h3>
+        <h3>(https://github.com/Ymugeon/NMG/assets/172655085/27ba79ca-8410-4946-8a87-369073e4ca1e)
+</h3>
+        <h3>(https://github.com/Ymugeon/NMG/assets/172655085/01ace2e9-ad7c-4434-8314-0c936da308ac)
+</h3>
     </section>
     <section id="blog" class="container">
         <h2>News</h2>
