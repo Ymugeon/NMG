@@ -13,12 +13,12 @@
     </nav>
     <section id="bilder" class="container">
         <h2>Beispiellogos</h2>
-        <h3>(https://github.com/Ymugeon/NMG/assets/172655085/64edf5a0-18cc-4fce-a4b3-a6ac7600108e)
-</h3>
-        <h3>(https://github.com/Ymugeon/NMG/assets/172655085/27ba79ca-8410-4946-8a87-369073e4ca1e)
-</h3>
-        <h3>(https://github.com/Ymugeon/NMG/assets/172655085/01ace2e9-ad7c-4434-8314-0c936da308ac)
-</h3>
+        <h4>(https://github.com/Ymugeon/NMG/assets/172655085/64edf5a0-18cc-4fce-a4b3-a6ac7600108e)
+</h4>
+        <h4>(https://github.com/Ymugeon/NMG/assets/172655085/27ba79ca-8410-4946-8a87-369073e4ca1e)
+</h4>
+        <h4>(https://github.com/Ymugeon/NMG/assets/172655085/01ace2e9-ad7c-4434-8314-0c936da308ac)
+</h4>
     </section>
     <section id="blog" class="container">
         <h2>News</h2>
@@ -46,6 +46,8 @@
     <section id="arbeit" class="container">
         <h2>Was ich anbiete</h2>
         <p>Ich erstelle Logos nach ihrem Wunsch, Websites nach ihrem Wunsch und alles gratis...</p>
+        <h2>Weitere Websites von NMG</h2>
+        <h4>https://github.com/Ymugeon/Minecraft/blob/main/README.md</h4>
     </section>
     <footer>
         <p>&copy; 2024 NMG</p>
