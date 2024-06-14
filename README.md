@@ -78,20 +78,20 @@
     <section id="bilder" class="container">
         <h2>Bilder</h2>
         <div class="bilder-gallery">
-            <img src="bild1.jpg" alt="Bild 1">
-            <img src="bild2.jpg" alt="Bild 2">
-            <img src="bild3.jpg" alt="Bild 3">
+            <img src="bild1.jpg" alt="Logo 1">
+            <img src="bild2.jpg" alt="Logo 2">
+            <img src="bild3.jpg" alt="Logo 3">
         </div>
     </section>
     <section id="blog" class="container">
         <h2>Blog</h2>
         <div class="blog-post">
-            <h3>Blogeintrag 1</h3>
-            <p>Das ist der Inhalt des ersten Blogeintrags.</p>
+            <h3>News 14.06.2024</h3>
+            <p>Hier ein paar Beispiellogos, von mir.</p>
         </div>
         <div class="blog-post">
-            <h3>Blogeintrag 2</h3>
-            <p>Das ist der Inhalt des zweiten Blogeintrags.</p>
+            <h3>News 15.06.2024</h3>
+            <p>In Arbeit...</p>
         </div>
     </section>
     <section id="kontakt" class="container">
