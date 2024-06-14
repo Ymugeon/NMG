@@ -44,6 +44,8 @@
     <section id="arbeit" class="container">
         <h2>Was ich anbiete</h2>
         <p>Ich erstelle Logos nach ihrem Wunsch, Websites nach ihrem Wunsch und alles gratis...</p>
+        ![image](https://github.com/Ymugeon/NMG/assets/172655085/a59a4962-d7d7-45be-a557-685672eb78f8)
+
     </section>
     <footer>
         <p>&copy; 2024 NMG</p>
