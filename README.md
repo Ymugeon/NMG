@@ -13,13 +13,8 @@
     </nav>
     <section id="bilder" class="container">
         <h2>Beispiellogos</h2>
-        <div class="bilder-gallery">
-            <img src="" al![image](https://github.com/Ymugeon/NMG/assets/172655085/eb658121-8b0d-4d50-a652-987045d195b3)
-t="Logo 1">
-            <img src="![th (2)](https://github.com/Ymugeon/NMG/assets/172655085/f8e7cb09-1143-4a35-98dd-6e6a3124144a)
-" alt="Logo 2">
-            <img src="bild3.jpg" alt="Logo 3">
-        </div>
+        ![th (2)](https://github.com/Ymugeon/NMG/assets/172655085/f8e7cb09-1143-4a35-98dd-6e6a3124144a)
+
     </section>
     <section id="blog" class="container">
         <h2>News</h2>
