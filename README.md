@@ -86,21 +86,21 @@
     <section id="blog" class="container">
         <h2>News</h2>
         <div class="blog-post">
-            <h3>News 14.06.2024</h3>
+            <h3>14.06.2024</h3>
             <p>Hier ein paar Beispiellogos von mir.</p>
         </div>
         <div class="blog-post">
-            <h3>News 15.06.2024</h3>
+            <h3>15.06.2024</h3>
             <p>In Arbeit...</p>
         </div>
     </section>
     <section id="kontakt" class="container">
         <h2>Kontakt</h2>
         <form action="#">
-            <label for="name">Name:</label><br>
-            <input type="text" id="name" name="name"><br>
+            <label for="name">Name:   NMG</label><br>
+            <input type="text" id="name" name="NMG"><br>
             <label for="email">Email:</label><br>
-            <input type="email" id="email" name="email"><br>
+            <input type="email" id="email" name="noe.gumy@lern.ksab.ch"><br>
             <label for="nachricht">Nachricht:</label><br>
             <textarea id="nachricht" name="nachricht" rows="4" cols="50"></textarea><br>
             <input type="submit" value="Senden">
