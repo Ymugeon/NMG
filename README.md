@@ -13,6 +13,10 @@
     </nav>
     <section id="bilder" class="container">
         <h2>Beispiellogos</h2>
+        <h3>![image](https://github.com/Ymugeon/NMG/assets/172655085/64edf5a0-18cc-4fce-a4b3-a6ac7600108e)
+</h3>
+        <h3>15.06.2024</h3>
+        <h3>15.06.2024</h3>
     </section>
     <section id="blog" class="container">
         <h2>News</h2>
