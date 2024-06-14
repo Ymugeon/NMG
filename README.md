@@ -6,8 +6,8 @@
         <h1>Willkommen auf NMG</h1>
     </header>
     <nav>
-        <a href="#bilder">Bilder</a>
-        <a href="#blog">Blog</a>
+        <a href="#bilder">Beispiellogos</a>
+        <a href="#blog">News</a>
         <a href="#kontakt">Kontakt</a>
         <a href="#arbeit">Arbeit</a>
     </nav>
