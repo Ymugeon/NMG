@@ -13,8 +13,6 @@
     </nav>
     <section id="bilder" class="container">
         <h2>Beispiellogos</h2>
-        ![th (2)](https://github.com/Ymugeon/NMG/assets/172655085/f8e7cb09-1143-4a35-98dd-6e6a3124144a)
-
     </section>
     <section id="blog" class="container">
         <h2>News</h2>
